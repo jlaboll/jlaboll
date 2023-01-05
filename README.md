@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=merko&fontSize=50&descSize=20&text=Jasen%20LaBolle&fontColor=ffffff&fontAlign=19&fontAlignY=21&desc=Full%20Stack%20Developer&fontColor=ffffff&descAlign=27&descAlignY=42&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&text=Jasen%20LaBolle&fontSize=50&fontAlign=19&fontAlignY=21&desc=Full%20Stack%20Developer&descSize=20&descAlign=27&descAlignY=42&color=0:8ec07c,100:d8a52d&height=150)
 
 I am a fullstack application developer, interested in DevOps, self-hosting, and containerized apps/services. I have a B.S. Computer Science, graduated December 2020.
 
