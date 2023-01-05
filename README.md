@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&text=Jasen%20LaBolle&fontSize=50&fontAlign=19&fontAlignY=21&desc=Full%20Stack%20Developer&descSize=20&descAlign=27&descAlignY=42&color=0:8ec07c,100:d8a52d&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&text=Jasen%20LaBolle&fontSize=50&fontAlign=19&fontAlignY=21&desc=Full%20Stack%20Developer&descSize=20&descAlign=27&descAlignY=42&color=0:33FFF8,100:33A0FF&height=150)
 
 🧑‍💻 Professional Experience with:
 - Omnis Studio 10
