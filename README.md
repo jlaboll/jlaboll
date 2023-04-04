@@ -4,23 +4,39 @@
 - Omnis Studio 10
 - Ruby on Rails
 - PostgreSQL
+- EmberJS
 
 :question: I'm interested in:
 - DevOps
 - Self-hosted solutions
 - Containerized apps/services
+- New approaches developing/maintaining SaaS applications
 
-🔭 I’m currently working on:
-- Bare-metal K8s
-- Self-hosted websites 
+🚀 I’m currently working on:
+- Bare-metal K8s deployment with Ansible
+- On-premises Jetbrains Space production deployment
+- Deployment automation with Terraform/Ansible
+- Responsive resume site on Flutter
 
 🌱 I’m currently learning:
 - Kubernetes
 - Flutter
+- Docker/Compose
+- Terraform
+- Ansible
+
+🔭 I hope to learn more about:
+- FaaS
+- GCP
+- SOC 2 compliance
+- AuthZ/AuthN such as Oauth 2.0/OpenID
+- Approaches to Cloud-Native HA services
+- Object Storage such as Ceph
 
 💬 Ask me about: 
 - PostgreSQL
 - Rails
+- Omnis Studio
 
 📫 How to reach me: 
 - (217) 721-7655 
@@ -30,4 +46,5 @@
 - he/him/his
 
 ⚡ Fun fact(s): 
-- I have a pet hedgehog named Penelope 🦔
+- I have a pet hedgehog named Penelope 🦔 and a small herd of 6 guinea pigs
+- I currently run 10 mini-pc's and a HPE DL360 in my homelab
