@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&text=Jasen%20LaBolle&fontSize=50&fontAlign=19&fontAlignY=21&desc=Full%20Stack%20Developer&descSize=20&descAlign=27&descAlignY=42&color=0:33FFF8,100:33A0FF&height=150)
 
-💻 jlaboll.dev 
-
 🧑‍💻 Professional Experience with:
 - Omnis Studio 10
 - Ruby on Rails
@@ -53,5 +51,7 @@
 - he/him/his
 
 ⚡ Fun fact(s): 
-- I have a pet hedgehog named Penelope 🦔 and a small herd of 6 guinea pigs
-- I currently run 10 mini-pc's and a HPE DL360 in my homelab
+- I have a pet hedgehog named Penelope 🦔 and a small herd of 7 guinea pigs
+- I currently run 10 mini-pc's and a HPE DL360 (9th Gen.) in my homelab
+
+View more about me here: [link](jlaboll.dev)
