@@ -54,4 +54,4 @@
 - I have a pet hedgehog named Penelope 🦔 and a small herd of 7 guinea pigs
 - I currently run 10 mini-pc's and a HPE DL360 (9th Gen.) in my homelab
 
-View more about me [link](jlaboll.dev)here
+View more about me [here](jlaboll.dev).
