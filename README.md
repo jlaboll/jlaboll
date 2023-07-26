@@ -18,7 +18,7 @@
 - Keycloak IAM
 - Sample app built on Postgres/RoR/React
 
-:heavy_check_mark: My recent projects:
+:ballot_box_with_check: My recent projects:
 - Bare-metal K8s deployment with Ansible
 - Ceph Cluster using Rook
 - On-premises Jetbrains Space production deployment
