@@ -22,7 +22,7 @@
 - Bare-metal K8s deployment with Ansible
 - Ceph Cluster using Rook
 - On-premises Jetbrains Space production deployment
-- Responsive personal site on Flutter (jlaboll.dev)
+- Responsive personal site on Flutter
 
 🌱 I’m currently learning:
 - Kubernetes
