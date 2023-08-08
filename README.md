@@ -34,7 +34,7 @@
 - Use cases for FaaS
 - GCP/AWS/Azure
 - SOC 2 compliance
-- AuthZ/AuthN such as Oauth 2.0/OpenID
+- AuthZ/AuthN such as Oauth 2.0/OpenID and XACML
 - Approaches to Cloud-Native HA services
 - Terraform
 
