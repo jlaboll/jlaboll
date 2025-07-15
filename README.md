@@ -7,6 +7,7 @@
 - PostgreSQL
 - MySQL
 - EmberJS
+- PHP
 - Firebase
 - Google Cloud Platform
 - Microsoft Azure
@@ -15,34 +16,26 @@
 - DevOps
 - On-Premises solutions
 - Containerized apps/services
-- New approaches developing/maintaining SaaS applications
+- New technology for developing/maintaining SaaS applications
 
 🚀 I’m currently working on:
-- Resume website
-- Github Actions for CI/CD on self-hosted runners
-- Sample app built on Postgres/RoR/React
+- A Flutter project @ Turnberry Solutions / Ecolab
 
 :green_circle: My recent projects:
+- A Sales Canvasing Mobile App 
+- Custom solution for a MySQL database to replicate to Firestore
+- Bare-metal to Azure VM server migration
 - Bare-metal K8s deployment with Ansible
-- Ceph Cluster using Rook
-- On-premises Jetbrains Space production deployment
 
-🌱 I’m currently learning:
+🔭 Id love to hear more about:
 - Kubernetes
 - Ansible
-
-🔭 I hope to learn more about:
-- Use cases for FaaS
-- SOC 2 compliance
-- AuthZ/AuthN such as Oauth 2.0/OpenID and XACML
-- Approaches to Cloud-Native HA services
 - Terraform
 
 💬 Ask me about: 
-- PostgreSQL
-- MySQL
-- Ruby on Rails
 - Flutter
+- PostgreSQL/MySQL
+- Ruby on Rails
 - Firebase
 - Omnis Studio
 
@@ -55,6 +48,6 @@
 
 ⚡ Fun fact(s): 
 - I have a pet hedgehog named Penelope 🦔 and a small herd of 7 guinea pigs
-- I currently run 5 mini-pc's and a HP DL360 in my homelab
 
+View my other profile [here](github.com/jmlabolle)
 <!-- View more about me [here](j-lab.dev). -->
