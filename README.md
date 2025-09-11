@@ -14,15 +14,14 @@
 
 :question: I'm interested in:
 - DevOps
-- On-Premises solutions
-- Containerized apps/services
+- On-Premises Cloud solutions
 - New technology for developing/maintaining SaaS applications
 
 🚀 I’m currently working on:
 - A Flutter project @ Turnberry Solutions / Ecolab
 
 :green_circle: My recent projects:
-- A Sales Canvasing Mobile App 
+- Flutter Mobile App
 - Custom solution for a MySQL database to replicate to Firestore
 - Bare-metal to Azure VM server migration
 - Bare-metal K8s deployment with Ansible
@@ -49,5 +48,5 @@
 ⚡ Fun fact(s): 
 - I have a pet hedgehog named Penelope 🦔 and a small herd of 7 guinea pigs
 
-View my other profile [here](github.com/jmlabolle)
+View my other profiles [here](github.com/jmlabolle) and [here](github.com/jasenlabolle)
 <!-- View more about me [here](j-lab.dev). -->
