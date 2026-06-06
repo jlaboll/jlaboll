@@ -48,5 +48,5 @@
 ⚡ Fun fact(s): 
 - I have a pet hedgehog named Penelope 🦔 and a small herd of 7 guinea pigs
 
-View my other profiles [here](github.com/jmlabolle) and [here](github.com/jasenlabolle)
+View my other profiles [here](https://github.com/jmlabolle) and [here](https://github.com/jasenlabolle)
 <!-- View more about me [here](j-lab.dev). -->
